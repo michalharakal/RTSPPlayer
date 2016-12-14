@@ -28,6 +28,5 @@ dependencies {
     compile 'org.slf4j:slf4j-api:1.7.21'
     compile group: 'org.slf4j', name: 'slf4j-android', version: '1.7.21'
 
-    compile group: 'commons-codec', name: 'commons-codec', version: '1.6'
     compile 'commons-io:commons-io:2.4'
 }
